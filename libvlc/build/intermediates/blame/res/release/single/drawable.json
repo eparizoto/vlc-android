@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/drawable/notification_icon_background.xml"
+    }
+]

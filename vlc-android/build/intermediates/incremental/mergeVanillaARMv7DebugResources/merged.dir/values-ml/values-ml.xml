@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="albums_quantity">
+        <item quantity="one">൧ അല്‍ബം</item>
+        <item quantity="other">%d ആല്‍ബങ്ങള്‍</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="one">൧ മീഡിയ ഫയല്‍</item>
+        <item quantity="other">%d മീഡിയ ഫയലുകള്‍</item>
+    </plurals>
+    <plurals name="search_found_results_quantity">
+        <item quantity="one">%d ഫലം ലഭിച്ചു</item>
+        <item quantity="other">%d ഫലങ്ങള്‍ ലഭിച്ചു</item>
+    </plurals>
+    <plurals name="songs_quantity">
+        <item quantity="one">൧ ഗാനം</item>
+        <item quantity="other">%d ഗാനങ്ങള്‍</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="one">൧ സബ്ഫോള്‍ഡര്‍</item>
+        <item quantity="other">%d സബ്ഫോള്‍ഡറുകള്‍</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ഹോമിലേക്ക് നാവിഗേറ്റുചെയ്യുക"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"മുകളിലേക്ക് നാവിഗേറ്റുചെയ്യുക"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"കൂടുതൽ‍ ഓപ്‌ഷനുകള്‍"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"പൂർത്തിയാക്കി"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"എല്ലാം കാണുക"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ഒരു അപ്ലിക്കേഷൻ തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ഓഫ്"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ഓൺ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"തിരയുക…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"അന്വേഷണം മായ്‌ക്കുക"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"തിരയൽ അന്വേഷണം"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"തിരയൽ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"അന്വേഷണം സമർപ്പിക്കുക"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ശബ്ദതിരയൽ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ഇവരുമായി പങ്കിടുക"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-മായി പങ്കിടുക"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ചുരുക്കുക"</string>
+    <string name="about">കുറിച്ച്‌</string>
+    <string name="advanced_prefs_category">കൂടുതല്‍</string>
+    <string name="album">ആല്‍ബം</string>
+    <string name="albums">ആല്‍ബങ്ങള്‍</string>
+    <string name="all_albums">എല്ലാ അല്‍ബങ്ങളും</string>
+    <string name="aout">ഓഡിയോ ഔട്ട്പുട്ട്</string>
+    <string name="app_name_full">ആൻഡ്രോയഡിന്™ വേണ്ടിയ VLC</string>
+    <string name="append">കൂട്ടിച്ചേര്‍ക്കുക</string>
+    <string name="append_all">എല്ലാം കൂട്ടിച്ചേര്‍ക്കുക</string>
+    <string name="artist">കലാകാരന്‍</string>
+    <string name="artists">കലാകാരന്മാര്‍</string>
+    <string name="audio">ശബ്ദം</string>
+    <string name="bookmarks">അടയാളങ്ങള്‍</string>
+    <string name="brightness">തെളിച്ചം</string>
+    <string name="cancel">ഉപേക്ഷിക്കുക</string>
+    <string name="clear_history">അന്വേഷണ ചരിത്രം നീക്കുക</string>
+    <string name="clear_media_db">മീഡിയ വിവരശേഖരം തുടച്ചുമാറ്റുക</string>
+    <string name="compiled_by">VLC യുടെ ഈ പതിപ്പ്‌ സമാഹരിച്ചിരിക്കുന്നത്:</string>
+    <string name="confirm_delete">\'%1$s\' ഫയല്‍ നശിപ്പിക്കട്ടെ?</string>
+    <string name="cover_art">കവര്‍ ആര്‍ട്ട്</string>
+    <string name="delete">മായ്‌ചുകളയുക</string>
+    <string name="directories">ഡയറക്‍ട്ടറികള്‍</string>
+    <string name="directory">ഡയറക്റ്ററി ചേര്‍ക്കുക</string>
+    <string name="enable_time_stretching_audio">സമയം-നീട്ടിയ ഓഡിയോ</string>
+    <string name="enable_verbose_mode">വാചാലമായി</string>
+    <string name="equalizer">ഈക്വലൈസര്‍</string>
+    <string name="error_not_compatible">ക്ഷമിക്കുക, ആന്‍ഡ്രോയിഡ്™ ഇല്‍ ഉള്ള VLC ഇപ്പോള്‍ നിങ്ങളുടെ ഉപകരണത്തെ അനുകൂലിക്കുന്നില്ല. </string>
+    <string name="genres">ശൈലികള്‍</string>
+    <string name="history">ചരിത്രം</string>
+    <string name="info">വിവരം</string>
+    <string name="internal_memory">ആന്തരിക മെമറി</string>
+    <string name="last_playlist">അവസാനത്തെ പ്ളേലിസ്റ്റ്</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"തുടരുക"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"പൂര്‍ത്തിയാക്കുക"</string>
+    <string msgid="3650250994187305396" name="lb_media_player_error">"മീഡിയ പ്ലെയർ പിശക് കോഡ്: %1$d, കൂടെ %2$d എന്നതും"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"നാവിഗേഷൻ മെനു"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"അടുത്തത്"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"ആരംഭിക്കുക"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"അടച്ച അടിക്കുറിപ്പ് നൽകൽ പ്രവർത്തനരഹിതമാക്കുക"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"അടച്ച അടിക്കുറിപ്പ് നൽകൽ പ്രവർത്തനക്ഷമമാക്കുക"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"ഫാസ്റ്റ് ഫോർവേഡ് ചെയ്യുക"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"%1$dX വേഗത്തിൽ ഫോർവേഡുചെയ്യുക"</string>
+    <string msgid="8940984081242033574" name="lb_playback_controls_hidden">"മീഡിയ നിയന്ത്രണങ്ങൾ ‌മറച്ചിരിക്കുന്നു, കാണിക്കുന്നതിന് ഡി-‌പാഡ് അമർത്തുക"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"ഉയർന്ന നിലവാരം പ്രവർത്തനരഹിതമാക്കുക"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"ഉയർന്ന നിലവാരം പ്രവർത്തനക്ഷമമാക്കുക"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"കൂടുതൽ പ്രവർത്തനങ്ങൾ"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"താൽക്കാലികമായി നിർത്തുക"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"\'ചിത്രത്തിനുള്ളിൽ ചിത്രം\' മോഡിലേക്ക് പ്രവേശിക്കുക"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"പ്ലേ ചെയ്യുക"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"എല്ലാം ആവർത്തിക്കുക"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"ഒന്നും ആവർത്തിക്കരുത്"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"ഒന്ന് ആവർത്തിക്കുക"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"റിവൈൻഡുചെയ്യുക"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"%1$dX റിവൈൻഡുചെയ്യുക"</string>
+    <string msgid="6382160135512023238" name="lb_playback_controls_shown">"മീഡിയ നിയന്ത്രണങ്ങൾ ‌കാണിച്ചിരിക്കുന്നു"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"ഷഫിൾ ചെയ്യുന്നത് പ്രവർത്തനരഹിതമാക്കുക"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"ഷഫിൾ ചെയ്യുന്നത് പ്രവർത്തനക്ഷമമാക്കുക"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"അടുത്തതിലേക്ക് പോകുക"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"മുമ്പത്തേതിലേക്ക് പോകുക"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"തമ്പ് ഡൗൺ തിരഞ്ഞെടുത്തത് മാറ്റുക"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"തമ്പ് ഡൗൺ തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"തമ്പ് അപ്പ് തിരഞ്ഞെടുത്തത് മാറ്റുക"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"തമ്പ് അപ്പ് തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="3208380806582304911" name="lb_playback_time_separator">"/"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"തിരയുക"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"ശബ്‌ദം ഉപയോഗിച്ച് തിരയുക"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> തിരയുക"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> തിരയുന്നതിന് സംസാരിക്കുക"</string>
+    <string name="licence">ലൈസന്‍സ്‌</string>
+    <string name="loading">നിറയ്ക്കുന്നു</string>
+    <string name="locked">പൂട്ടിയിരിക്കന്നു</string>
+    <string name="media_db_cleared">മീഡിയ വിവരശേഖരം തുടച്ചുമാറ്റിയിരിക്കുന്നു!</string>
+    <string name="mediafiles">മീഡിയ ഫയലുകള്‍</string>
+    <string name="next">അടുത്തത്</string>
+    <string name="nohistory">നിങ്ങള്‍ക്ക് ഇതുവരെ പ്ളേബാക്ക് ചരിത്രം ഇല്ല</string>
+    <string name="nomedia">മീഡിയ ഫയലുകള്‍ ലഭ്യമല്ലാത്തതുകൊണ്ട്, ചില ഫയലുകള്‍ ന്ങ്ങളുടെ ഉപകരണത്തിലേക്ക് മാറ്റുക; അല്ലെങ്കില്‍ നിങ്ങളുടെ അഭിരുചി ക്രമീകരിക്കുക.</string>
+    <string name="nosubdirectory">സബ്ഡയറക്‍ട്ടറികള്‍ ഇല്ല</string>
+    <string name="not_show_again">ഈ മെസേജ് വീണ്ടും കാണിക്കേണ്ട</string>
+    <string name="notavailable">ലഭ്യമല്ല</string>
+    <string name="ok">ഓക്കെ</string>
+    <string name="open">തുറക്കുക</string>
+    <string name="open_mrl">MRL തുറക്കുക</string>
+    <string name="open_mrl_dialog_msg">ശൃംഖലയുടെ MRL രേഖപ്പെടുത്തുക: ഉദാ. http://, mms:// അല്ലെങ്കില്‍ rtsp://</string>
+    <string name="open_mrl_dialog_title">ശൃംഖല സ്രോതസ്സ്‌ തുറക്കുക</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"തിരയൽ പ്രവർത്തനം"</string>
+    <string name="other">മറ്റുള്ളവ</string>
+    <string name="parent_folder">മാതൃ ഫോള്‍ഡറിലേക്ക്</string>
+    <string name="pause">വിരാമം</string>
+    <string name="play">തുടങ്ങുക</string>
+    <string name="play_all">എല്ലാം തുടങ്ങുക</string>
+    <string name="play_as_audio">ഓഡിയോ ആയി തുടങ്ങുക</string>
+    <string name="play_as_video">വീഡിയോ ആയി തുടങ്ങുക</string>
+    <string name="play_from_start">ആരംഭത്തില്‍ നിന്ന് തുടങ്ങുക</string>
+    <string name="playback_speed">പ്ളേബാക്ക് വേഗത</string>
+    <string name="playlists">പ്ലേലിസ്റ്റുകള്‍</string>
+    <string name="please_wait">ദയവായി കാത്തിരിക്കുക…</string>
+    <string name="preferences">അഭിരുചികള്‍</string>
+    <string name="previous">മുന്‍പുള്ളത്</string>
+    <string name="quit">ആപ്പ്ളിക്കേഷന്‍ നിറുത്തിയിട്ടു വീണ്ടും തുടങ്ങുക</string>
+    <string name="refresh">ഉന്മേഷിപ്പിക്കുക</string>
+    <string name="repeat">ഒന്നും/ഒന്ന്/എല്ലാം ആവര്‍ത്തിക്കുക</string>
+    <string name="revision">പരിഷ്‌കരണം</string>
+    <string name="screen_orientation"> വീഡിയോ സ്ക്റീൻ ഓറിയൻറ്റേഷൻ</string>
+    <string name="screen_orientation_landscape">തിരശ്ചീനരൂപമായി</string>
+    <string name="screen_orientation_portrait">ലംബരൂപമായി</string>
+    <string name="screen_orientation_reverse_landscape"> തിരശ്ചീനരൂപത്തിന് വിപരീതമായി</string>
+    <string name="screen_orientation_reverse_portrait">ലംബരൂപത്തിന് വിപരീതമായി</string>
+    <string name="screen_orientation_sensor">ഓട്ടോമാറ്റിക്(സെന്‍സര്‍)</string>
+    <string name="screen_orientation_start_lock">തുടക്കത്തില്‍ പൂട്ടിയിരിക്കുന്നു</string>
+    <string msgid="146198913615257606" name="search_menu_title">"തിരയുക"</string>
+    <string name="searchable_hint">തിരയുക...</string>
+    <string name="set_locale">സങ്കേതസ്ഥാനം നിയമിക്കുക</string>
+    <string name="set_locale_detail">പുനഃക്രമീകരിക്കുന്നതിന് ഒഴിച്ച് ഇടുക</string>
+    <string name="set_locale_popup">മാറ്റങ്ങള്‍ പ്രാവര്‍ത്തികമാക്കുവാന്‍ VLC നിറുത്തിയിട്ടു വീണ്ടും തുടങ്ങുക.</string>
+    <string name="set_song">റിംഗ്ടോണ്‍ ആയി സ്ഥാപിക്കുക</string>
+    <string name="shuffle">കൂട്ടിക്കലര്‍ത്തുക</string>
+    <string name="sleep_cancel">സ്ലീപ് റ്റൈമര്‍ റദ്ദാക്കുക</string>
+    <string name="sleep_title">സ്ലീപ് റ്റൈമര്‍</string>
+    <string name="songs">ഗാനങ്ങള്‍</string>
+    <string name="sortby">ക്രമീകരിക്കുക…</string>
+    <string name="sortby_length">ദൈര്‍ഘ്യം</string>
+    <string name="sortby_name">പേര്</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">നിറുത്തുക</string>
+    <string name="surface_best_fit">ഏറ്റവും അനുയോജ്യമായത്</string>
+    <string name="surface_fill">നിറയ്ക്കുക</string>
+    <string name="surface_original">മധ്യം</string>
+    <string name="thumbnail">ചെറുരൂപം</string>
+    <string name="title">തലക്കെട്ട്</string>
+    <string name="track_audio">ഓഡിയോ ട്രാക്ക്</string>
+    <string name="track_text">ഉപശീര്‍ഷക ട്രാക്ക്‌</string>
+    <string name="track_unknown">അജ്ഞാത ട്രാക്ക്‌</string>
+    <string name="track_video">വീഡിയോ ട്രാക്ക്‌</string>
+    <string name="unknown_album">അജ്ഞാത ആല്‍ബം</string>
+    <string name="unknown_artist">അജ്ഞാത കലാകാരന്‍</string>
+    <string name="unknown_genre">അജ്ഞാത വിഭാഗം</string>
+    <string name="unlocked">തുറന്നിരിക്കുന്നു</string>
+    <string name="validation">ഉറപ്പാണോ?</string>
+    <string name="video">ദ്രിശ്യം</string>
+    <string name="vlc_authors">VLC രചയിതാക്കള്‍</string>
+    <string name="volume">ശബ്ദം</string>
+</resources>

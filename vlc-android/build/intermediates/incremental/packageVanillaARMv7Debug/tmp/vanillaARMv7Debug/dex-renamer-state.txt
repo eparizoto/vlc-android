@@ -1,0 +1,4 @@
+#Sat Jul 14 10:58:00 BRT 2018
+base.0=/home/user/vlc-android/vlc-android/build/intermediates/transforms/dexMerger/vanillaARMv7/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

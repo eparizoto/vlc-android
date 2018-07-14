@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/vlc-android/medialibrary/build/intermediates/res/merged/debug/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/32c4e70d87dddf23eda70f392332b7b9/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "95,165,229,300",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "160,224,295,363"
+                    }
+                },
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-land/booleans.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                },
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "37",
+                        "endColumns": "44",
+                        "endOffsets": "77"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "368",
+                        "endColumns": "44",
+                        "endOffsets": "408"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/user/vlc-android/medialibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/32c4e70d87dddf23eda70f392332b7b9/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "95,165,229,300",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "160,224,295,363"
+                    }
+                },
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-land/booleans.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                },
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "37",
+                        "endColumns": "44",
+                        "endOffsets": "77"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "368",
+                        "endColumns": "44",
+                        "endOffsets": "408"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:1-5:12
+INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:1-5:12
+INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:1-5:12
+INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:1-5:12
+INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:1-5:12
+INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:1-5:12
+INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:3:7-29
+		INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml
+		INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:3:54-81
+		INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml
+		INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:3:30-53
+		INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml
+		INJECTED from /home/user/vlc-android/libvlc/AndroidManifest.xml
+uses-sdk
+ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:4:5-73
+	android:targetSdkVersion
+		ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:4:42-71
+	android:minSdkVersion
+		ADDED from /home/user/vlc-android/libvlc/AndroidManifest.xml:4:15-41

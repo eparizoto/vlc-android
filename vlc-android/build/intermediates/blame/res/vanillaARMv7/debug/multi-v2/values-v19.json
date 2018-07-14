@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/home/user/vlc-android/vlc-android/res/values-v19/styles.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,181",
+                        "endLines": "2,7",
+                        "endColumns": "65,12",
+                        "endOffsets": "175,392"
+                    },
+                    "to": {
+                        "startLines": "12,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "717,783",
+                        "endLines": "12,16",
+                        "endColumns": "65,12",
+                        "endOffsets": "778,994"
+                    }
+                },
+                {
+                    "source": "/home/user/vlc-android/vlc-android/res/values-v19/booleans.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.1.aar/43570a1b9fe8d3fd95351400a670637d/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "659"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "108",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "712"
+                    }
+                }
+            ]
+        }
+    ]
+}

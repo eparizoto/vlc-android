@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                  
+                                                       
+                                  
+    
+                                          
+                                               
+                                                                         
+                 
+                         
+                                                                               
+                 
+                       
+                                     
+                 
+                                 
+                            
+                 
+                               
+                            
+                 
+                           
+                           
+                 
+                        
+                                                             
+                 
+                          
+                         
+           
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:padding="2dp"
+        android:focusable="true"
+        android:tag="layout/browser_item_0"  
+                                                                                                        
+                                            
+                                                    
+                                          xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" tools:targetApi="jelly_bean">
+
+        <org.videolan.vlc.gui.helpers.ThreeStatesCheckbox
+            android:id="@+id/browser_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_1"          
+            android:focusable="false"
+                                                        
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:visibility="gone"                                                                                            />
+
+        <!-- Image downloading is handled by org.videolan.vlc.gui.helpers.ImageLoader.loadImage() -->
+        <ImageView
+            android:id="@+id/item_icon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+                                  
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/cover_art"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/browser_checkbox"
+            app:layout_constraintTop_toTopOf="parent"
+                               
+            android:tag="binding_2"                                                                                />
+        <TextView
+            android:id="@+id/dvi_icon"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:tag="binding_3"   
+            android:textColor="@color/whitetransparent"
+            android:textSize="11sp"
+            app:layout_constraintBottom_toBottomOf="@+id/item_icon"
+            app:layout_constraintStart_toStartOf="@+id/item_icon"
+            app:layout_constraintEnd_toEndOf="@+id/item_icon"
+            app:layout_constraintTop_toTopOf="@+id/item_icon"
+            android:visibility="gone"                                                                     />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_goneMarginBottom="2dp"
+            android:layout_marginLeft="@dimen/default_margin"
+            android:layout_marginStart="@dimen/default_margin"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/item_icon"
+            app:layout_constraintVertical_chainStyle="packed"
+            app:layout_constraintEnd_toStartOf="@+id/item_more"
+            app:layout_constraintBottom_toTopOf="@+id/text"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:maxLines="1"
+            android:tag="binding_4"     
+            android:textColor="?attr/list_title"
+            android:textSize="16sp"
+            android:lineSpacingMultiplier="1.1" />
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:tag="binding_5"           
+            android:textColor="?attr/list_subtitle"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/item_more"
+            app:layout_constraintStart_toStartOf="@+id/title"
+            app:layout_constraintTop_toBottomOf="@+id/title"
+            android:visibility="gone"                                                                            />
+
+        <ImageView
+            android:id="@+id/item_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:background="@drawable/ic_more"
+            android:visibility="gone"                                                      
+            android:tag="binding_6"                 
+                                                  />
+    </android.support.constraint.ConstraintLayout>
+         

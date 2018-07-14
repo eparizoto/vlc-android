@@ -1,0 +1,199 @@
+sqlite3-shell.o: ../shell.c \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdlib.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdlib.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs_elf.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/android/api-level.h \
+  /home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/stddef.h \
+  /home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/__stddef_max_align_t.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/string.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/string.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/malloc.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/xlocale.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/alloca.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/strings.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdint.h \
+  /home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/stdint.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdint.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/_types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_wchar_limits.h \
+  /home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/limits.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/limits.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/limits.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/limits.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/internal_types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/limits.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/syslimits.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/page.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/posix_types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/stddef.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/compiler.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/posix_types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/types.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/kernel.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysmacros.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/memory.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdio.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdio.h \
+  /home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/stdarg.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wchar.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wctype.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/assert.h \
+  ../sqlite3.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/ctype.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/ctype.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/signal.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/signal.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/signal.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/sigcontext.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/siginfo.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/siginfo.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/ucontext.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/user.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pwd.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/unistd.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/select.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/time.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/time.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysconf.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/capability.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pathconf.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/resource.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/resource.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/resource.h \
+  /home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/resource.h
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdlib.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdlib.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/android/api-level.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/stddef.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/__stddef_max_align_t.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/string.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/string.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/malloc.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/xlocale.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/alloca.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/strings.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdint.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/stdint.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdint.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/_types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/limits.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/limits.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/limits.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/limits.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/internal_types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/limits.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/syslimits.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/page.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/posix_types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/stddef.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/compiler.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/posix_types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/types.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/kernel.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysmacros.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/memory.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdio.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdio.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.275480/include/stdarg.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wchar.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wctype.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/assert.h:
+
+../sqlite3.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/ctype.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/ctype.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/signal.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/signal.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/signal.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/sigcontext.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/siginfo.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/siginfo.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/ucontext.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/user.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pwd.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/unistd.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/select.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/time.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/time.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysconf.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/capability.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pathconf.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/resource.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/resource.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/resource.h:
+
+/home/user/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/resource.h:

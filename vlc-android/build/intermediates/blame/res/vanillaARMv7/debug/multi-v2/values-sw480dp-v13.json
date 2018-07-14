@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/merged.dir/values-sw480dp-v13/values-sw480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/user/vlc-android/vlc-android/res/values-sw480dp/dimens.xml",
+                    "from": {
+                        "startLines": "8,7,6,9,3,10,2,4,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "361,306,252,407,95,457,42,146,191",
+                        "endColumns": "45,54,53,49,50,55,52,44,60",
+                        "endOffsets": "402,356,301,452,141,508,90,186,247"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,156,210,260,311,367,420,465",
+                        "endColumns": "45,54,53,49,50,55,52,44,60",
+                        "endOffsets": "96,151,205,255,306,362,415,460,521"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+package com.android.databinding.library.baseAdapters;
+
+public class BR {
+        public static final int _all = 0;
+        public static final int alignMode = 1;
+        public static final int bgColor = 2;
+        public static final int checkEnabled = 3;
+        public static final int clicHandler = 4;
+        public static final int cover = 5;
+        public static final int dialog = 6;
+        public static final int empty = 7;
+        public static final int extraTitleText = 8;
+        public static final int extraValueText = 9;
+        public static final int fragment = 10;
+        public static final int handler = 11;
+        public static final int hasContextMenu = 12;
+        public static final int holder = 13;
+        public static final int item = 14;
+        public static final int length = 15;
+        public static final int max = 16;
+        public static final int media = 17;
+        public static final int option = 18;
+        public static final int path = 19;
+        public static final int player = 20;
+        public static final int playlist = 21;
+        public static final int progress = 22;
+        public static final int protocol = 23;
+        public static final int renderer = 24;
+        public static final int scaleType = 25;
+        public static final int searchAggregate = 26;
+        public static final int seen = 27;
+        public static final int showCover = 28;
+        public static final int showFavorites = 29;
+        public static final int sizeTitleText = 30;
+        public static final int sizeValueText = 31;
+        public static final int state = 32;
+        public static final int subTitle = 33;
+        public static final int time = 34;
+        public static final int title = 35;
+        public static final int titleColor = 36;
+}

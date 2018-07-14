@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/ml_wizard_activity.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/ml_wizard_activity.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/video_list_card.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/video_list_card.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/directory_browser.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/directory_browser.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/info_activity.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/info_activity.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/item_renderer.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/item_renderer.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/audio_player.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/audio_player.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/audio_browser_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/audio_browser_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/tv_simple_list_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/tv_simple_list_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/dialog_renderers.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/dialog_renderers.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/extension_item_view.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/extension_item_view.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/equalizer.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/equalizer.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/vlc_login_dialog.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/vlc_login_dialog.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/history_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/history_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/search_activity.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/search_activity.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/context_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/context_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/simple_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/simple_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/vlc_question_dialog.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/vlc_question_dialog.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/tv_audio_player.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/tv_audio_player.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/playlist_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/playlist_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/search_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/search_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/video_grid_card.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/video_grid_card.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/browser_item.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/browser_item.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/browser_item_separator.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/browser_item_separator.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/playlist_activity.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/playlist_activity.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/audio_browser_separator.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/audio_browser_separator.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/player_hud.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/player_hud.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/video_grid.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/video_grid.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/stripped.dir/layout/vlc_progress_dialog.xml",
+        "source": "/home/user/vlc-android/vlc-android/res/layout/vlc_progress_dialog.xml"
+    }
+]

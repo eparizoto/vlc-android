@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/user/vlc-android/medialibrary/assets"/><source path="/home/user/vlc-android/medialibrary/libcompat/libs/armeabi"/><source path="/home/user/vlc-android/medialibrary/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/user/vlc-android/medialibrary/src/debug/assets"/></dataSet></merger>

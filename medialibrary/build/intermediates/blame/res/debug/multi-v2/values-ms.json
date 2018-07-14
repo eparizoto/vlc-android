@@ -1,0 +1,102 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/vlc-android/medialibrary/build/intermediates/res/merged/debug/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1945",
+                        "endColumns": "100",
+                        "endOffsets": "2041"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/32c4e70d87dddf23eda70f392332b7b9/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,321,429,516,620,731,809,888,968,1080,1189,1286,1395,1498,1605,1764,1865",
+                        "endColumns": "110,104,107,86,103,110,77,78,79,111,108,96,108,102,106,158,100,79",
+                        "endOffsets": "211,316,424,511,615,726,804,883,963,1075,1184,1281,1390,1493,1600,1759,1860,1940"
+                    }
+                },
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-ms/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "167,102,231,295",
+                        "endColumns": "63,64,63,58",
+                        "endOffsets": "226,162,290,349"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2046,2110,2175,2239",
+                        "endColumns": "63,64,63,58",
+                        "endOffsets": "2105,2170,2234,2293"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/user/vlc-android/medialibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1945",
+                        "endColumns": "100",
+                        "endOffsets": "2041"
+                    }
+                },
+                {
+                    "source": "/home/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/32c4e70d87dddf23eda70f392332b7b9/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,321,429,516,620,731,809,888,968,1080,1189,1286,1395,1498,1605,1764,1865",
+                        "endColumns": "110,104,107,86,103,110,77,78,79,111,108,96,108,102,106,158,100,79",
+                        "endOffsets": "211,316,424,511,615,726,804,883,963,1075,1184,1281,1390,1493,1600,1759,1860,1940"
+                    }
+                },
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-ms/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "167,102,231,295",
+                        "endColumns": "63,64,63,58",
+                        "endOffsets": "226,162,290,349"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2046,2110,2175,2239",
+                        "endColumns": "63,64,63,58",
+                        "endOffsets": "2105,2170,2234,2293"
+                    }
+                }
+            ]
+        }
+    ]
+}

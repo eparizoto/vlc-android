@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="build_host" translatable="false">user@user-Infoway-ST-4255</string>
+    <string name="build_revision" translatable="false">bf714f120</string>
+    <string name="build_time" translatable="false">2018-07-14</string>
+    <string name="build_vlc_revision" translatable="false">cee79263f3</string>
+
+</resources>

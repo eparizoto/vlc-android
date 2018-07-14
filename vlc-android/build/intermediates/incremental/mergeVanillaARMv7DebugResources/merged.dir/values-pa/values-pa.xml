@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="albums_quantity">
+        <item quantity="one">1 ਐਲਬਮ</item>
+        <item quantity="other">%d ਐਲਬਮ</item>
+    </plurals>
+    <plurals name="mediafiles_quantity">
+        <item quantity="one">1 ਮੀਡਿਆ ਫਾਇਲ</item>
+        <item quantity="other">%d ਮੀਡਿਆ ਫਾਇਲਾਂ</item>
+    </plurals>
+    <plurals name="search_found_results_quantity">
+        <item quantity="one">%d ਨਤੀਜਾ ਮਿਲਿਆ</item>
+        <item quantity="other">%d ਨਤੀਜੇ ਮਿਲੇ</item>
+    </plurals>
+    <plurals name="songs_quantity">
+        <item quantity="one">1 ਗੀਤ</item>
+        <item quantity="other">%d ਗੀਤ</item>
+    </plurals>
+    <plurals name="subfolders_quantity">
+        <item quantity="one">1 ਸਬ-ਫੋਲਡਰ</item>
+        <item quantity="other">%d ਸਬ-ਫੋਲਡਰ</item>
+    </plurals>
+    <plurals name="track_channels_info_quantity">
+        <item quantity="one">1 ਚੈਨਲ\n</item>
+        <item quantity="other">%1$d ਚੈਨਲ\n</item>
+    </plurals>
+    <plurals name="videos_quantity">
+        <item quantity="one">1 ਵਿਡੀਓ</item>
+        <item quantity="other">%d ਵਿਡੀਓ</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ਹੋਮ \'ਤੇ ਜਾਓ"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ਉੱਪਰ ਜਾਓ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ਹੋਰ ਚੋਣਾਂ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ਹੋ ਗਿਆ"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ਸਭ ਦੇਖੋ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ਇੱਕ ਐਪ ਚੁਣੋ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ਬੰਦ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ਤੇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ਖੋਜ…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ਸਵਾਲ ਹਟਾਓ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ਖੋਜ ਪੁੱਛਗਿੱਛ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ਖੋਜੋ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ਸਵਾਲ ਪ੍ਰਸਤੁਤ ਕਰੋ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ਵੌਇਸ ਖੋਜ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ਨਾਲ ਸਾਂਝਾ ਕਰੋ"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ਨਸ਼ਟ ਕਰੋ"</string>
+    <string name="about">ਇਸ ਬਾਰੇ</string>
+    <string name="add_custom_path">ਪਸੰਦੀਦਾ ਪਾਥ ਜੋੜੋ</string>
+    <string name="add_custom_path_description">ਸਕੈਨ ਕਰਨ ਲਈ ਵਾਧੂ ਕਸਟਮ ਡਾਇਰੈਕਟਰੀ ਦਿਓ:</string>
+    <string name="advanced_prefs_category">ਤਕਨੀਕੀ</string>
+    <string name="album">ਐਲਬਮ</string>
+    <string name="albums">ਐਲਬਮ</string>
+    <string name="all_albums">ਸਭ ਐਲਬਮ</string>
+    <string name="aout">ਆਡੀਓ ਇਨਪੁਟ</string>
+    <string name="app_name_full">Android™ ਲਈ VLC</string>
+    <string name="append">ਜੋੜੋ</string>
+    <string name="append_all">ਸਭ ਜੋੜੋ</string>
+    <string name="artist">ਕਲਾਕਾਰ</string>
+    <string name="artists">ਕਲਾਕਾਰ</string>
+    <string name="audio">ਆਡੀਓ</string>
+    <string name="audio_player_tips">ਆਡੀਓ ਪਲੇਅਰ ਗੁਰ</string>
+    <string name="audio_title_alignment_centre">ਸੈਂਟਰ</string>
+    <string name="audio_title_alignment_default">ਡਿਫਾਲਟ</string>
+    <string name="audio_title_alignment_left">ਖੱਬੇ</string>
+    <string name="audio_title_alignment_right">ਸੱਜੇ</string>
+    <string name="automatic">ਆਟੋਮੈਟਿਕ</string>
+    <string name="bookmarks">ਬੁੱਕਮਾਰਕ</string>
+    <string name="brightness">ਚਮਕ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="clear_history">ਖੋਜ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="clear_log">ਲਾਗ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="clear_media_db">ਮੀਡੀਆ ਡਾਟਾਬੇਸ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="confirm_delete">ਕੀ ਫਾਇਲ \'%1$s\' ਹਟਾਉਣੀ ਹੈ?</string>
+    <string name="copied_to_clipboard">ਲਾਗ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ</string>
+    <string name="copy_to_clipboard">ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ</string>
+    <string name="cover_art">ਕਵਰ ਆਰਟ</string>
+    <string name="debug_logs">ਡੀਬੱਗ ਲਾਗ</string>
+    <string name="delete">ਹਟਾਓ</string>
+    <string name="developer_prefs_category">ਡਿਵੈਲਪਰ</string>
+    <string name="directories">ਡਾਇਰੈਕਟਰੀਆਂ</string>
+    <string name="directories_summary">ਮੀਡਿਆ ਲਾਇਬਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਡਾਇਰੈਕਟਰੀਆਂ ਚੁਣੋ</string>
+    <string name="directory">ਡਾਇਰੈਕਟਰੀ</string>
+    <string name="directorynotfound">ਡਾਇਰੈਕਟਰੀ ਪਾਥ \'%1$s\' ਨਹੀਂ ਲੱਭਿਆ।</string>
+    <string name="enable_black_theme">ਕਾਲਾ ਥੀਮ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="enable_brightness_gesture">ਚਮਕ ਜੈਸਚਰ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="enable_verbose_mode">ਵੇਰਵਾ</string>
+    <string name="encountered_error_message">VLC ਨੂੰ ਇਸ ਮੀਡਿਆ ਨਾਲ ਸਮੱਸਿਆ ਆਈ ਹੈ।\nਕਿਰਪਾ ਕਰਕੇ ਮੀਡਿਆ ਲਾਇਬਰੇਰੀ ਨੂੰ ਤਾਜ਼ਾ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="encountered_error_title">ਪਲੇਅਬੈਕ ਗਲਤੀ</string>
+    <string name="equalizer">ਇਕੂਲਾਈਜ਼ਰ</string>
+    <string name="error_not_compatible">ਅਫਸੋਸ, ਤੁਹਾਡਾ ਯੰਤਰ ਐਂਡਰਾਇਡ (Android™) ਲਈ VLC ਦੇ ਇਸ ਵਰਜ਼ਨ ਵਲੋਂ ਸਹਾਇਕ ਨਹੀਂ ਹੈ।</string>
+    <string name="error_problem">ਅਫਸੋਸ ਐਂਡਰਾਇਡ ਲਈ VLC ਨੂੰ ਲੋਡ ਕਰਨ ਵਿੱਚ ਸਮੱਸਿਆ ਸੀ ਅਤੇ ਬੰਦ ਹੋ ਗਿਆ।</string>
+    <string name="extra_prefs_category">ਵਾਧੂ ਸੈਟਿੰਗ</string>
+    <string name="general_prefs_category">ਆਮ</string>
+    <string name="genres">ਧੁਨ</string>
+    <string name="hardware_acceleration">ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ</string>
+    <string name="hardware_acceleration_disabled">ਆਯੋਗ </string>
+    <string name="hardware_acceleration_full">ਪੂਰਾ ਐਕਸਰਲੇਸ਼ਨ</string>
+    <string name="history">ਅਤੀਤ</string>
+    <string name="hold_to_stop">ਰੋਕਣ ਲਈ ਹੋਲਡ ਕਰੋ</string>
+    <string name="info">ਜਾਣਕਾਰੀ</string>
+    <string name="info_title">VLC</string>
+    <string name="interface_other_category">ਇੰਟਰਫੇਸ - ਹੋਰ</string>
+    <string name="interface_prefs_screen">ਇੰਟਰਫੇਸ</string>
+    <string name="interface_secondary_display_category">ਇੰਟਰਫੇਸ - ਸੈਕੰਡਰੀ ਡਿਸਪਲੇਅ</string>
+    <string name="internal_memory">ਅੰਦਰੂਨੀ ਮੈਮੋਰੀ</string>
+    <string name="invalid_location">ਟਿਕਾਣਾ %1$s ਚਲਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।</string>
+    <string name="jump_to_time">ਸਮੇਂ ਉੱਤੇ ਜਾਓ</string>
+    <string name="last_playlist">ਆਖਰੀ ਪਲੇਅਲਿਸਟ</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"ਜਾਰੀ ਰੱਖੋ"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"ਖ਼ਤਮ"</string>
+    <string msgid="3650250994187305396" name="lb_media_player_error">"MediaPlayer ਗੜਬੜ ਕੋਡ %1$d ਵਾਧੂ %2$d"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ ਮੀਨੂ"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"ਅੱਗੇ"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"ਸ਼ੁਰੂਆਤ ਕਰੋ"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"ਬੰਦ ਕੈਪਸ਼ਨਿੰਗ ਅਸਮਰੱਥ ਬਣਾਓ"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"ਬੰਦ ਸੁਰਖੀਆਂ ਚਾਲੂ ਕਰੋ"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"ਤੇਜ਼ੀ ਨਾਲ ਅੱਗੇ ਭੇਜੋ"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"%1$dX ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਅੱਗੇ ਭੇਜੋ"</string>
+    <string msgid="8940984081242033574" name="lb_playback_controls_hidden">"ਮੀਡੀਆ ਕੰਟਰੋਲ ਲੁਕੇ ਹੋਏ ਹਨ, ਵਿਖਾਉਣ ਲਈ ਡੀ-ਪੈਡ ਦਬਾਓ"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"ਉੱਚ ਗੁਣਵੱਤਾ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"ਉੱਚ ਗੁਣਵੱਤਾ ਨੂੰ ਚਾਲੂ ਕਰੋ"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"ਹੋਰ ਕਿਰਿਆਵਾਂ"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"ਰੋਕੋ"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"ਤਸਵੀਰ ਮੋਡ ਵਿੱਚ ਤਸਵੀਰ ਦਾਖਲ ਕਰੋ"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"ਪਲੇ ਕਰੋ"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"ਸਾਰਿਆਂ ਨੂੰ ਦੁਹਰਾਓ"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"ਕੋਈ ਵੀ ਨਾ ਦੁਹਰਾਓ"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"ਇੱਕ ਦੁਹਰਾਓ"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"ਰੀਵਾਈਂਡ"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"%1$dX ਨੂੰ ਰੀਵਾਈਂਡ ਕਰੋ"</string>
+    <string msgid="6382160135512023238" name="lb_playback_controls_shown">"ਮੀਡੀਆ ਕੰਟਰੋਲ ਵਿਖਾਏ ਗਏ"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"ਸ਼ਫਲ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"ਬੇਤਰਤੀਬ ਨੂੰ ਚਾਲੂ ਕਰੋ"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"ਅਗਲੇ ਨੂੰ ਛੱਡੋ"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"ਪਿਛਲੇ ਨੂੰ ਛੱਡੋ"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"ਥੰਬ ਡਾਊਨ ਨੂੰ ਅਚੋਣਵਾਂ ਕਰੋ"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"ਥੰਬ ਡਾਊਨ ਨੂੰ ਚੁਣੋ"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"ਥੰਬ ਅਪ ਨੂੰ ਅਚੋਣਵਾਂ ਕਰੋ"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"ਥੰਬ ਅਪ ਨੂੰ ਚੁਣੋ"</string>
+    <string msgid="3208380806582304911" name="lb_playback_time_separator">"/"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"ਖੋਜੋ"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"ਖੋਜਣ ਲਈ ਬੋਲੋ"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> ਖੋਜੋ"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> ਖੋਜਣ ਲਈ ਬੋਲੋ"</string>
+    <string name="licence">ਲਾਈਸੈਂਸ</string>
+    <string name="loading">...ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="lock">ਲਾਕ ਹੈ </string>
+    <string name="locked">ਲਾਕ ਹੈ</string>
+    <string name="media_db_cleared">ਮੀਡਿਆ ਡਾਟਾਬੇਸ ਸਾਫ਼ ਕੀਤਾ!</string>
+    <string name="mediafiles">ਮੀਡਿਆ ਫਾਇਲਾਂ</string>
+    <string name="network_caching">ਨੈਟਵਰਕ ਕੈਸ਼ਿੰਗ ਮੁੱਲ</string>
+    <string name="next">ਅੱਗੇ </string>
+    <string name="no_file_picker_found">ਸਿਸਟਮ ਉੱਤੇ ਕੋਈ ਫਾਇਲ ਚੋਣਕਾਰ ਨਹੀਂ ਲੱਭਿਆ।</string>
+    <string name="nohistory">ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪਲੇਅਬੈਕ ਅਤੀਤ ਹਾਲੇ ਨਹੀਂ ਹੈ।</string>
+    <string name="nomedia">ਕੋਈ ਮੀਡਿਆ ਫਾਇਲਾਂ ਨਹੀਂ ਲੱਭੀਆਂ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਯੰਤਰ ਉੱਤੇ ਕੁਝ ਫਾਇਲਾਂ ਟਰਾਂਸਫਰ ਕਰੋ ਜਾਂ ਆਪਣੀ ਪਸੰਦ ਨੂੰ ਠੀਕ ਕਰੋ।</string>
+    <string name="nosubdirectory">ਸਬ-ਡਾਇਰੈਕਟਰੀ ਨਹੀਂ</string>
+    <string name="not_show_again">ਇਹ ਸੁਨੇਹੇ ਫੇਰ ਨਾ ਵੇਖਾਓ</string>
+    <string name="notavailable">ਉਪਲੱਬਧ ਨਹੀਂ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="ok_got_it">ਇਹ ਸਮਝੇ ਗਏ, ਰੱਦ ਕਰੋ</string>
+    <string name="open">ਖੋਲ੍ਹੋ</string>
+    <string name="open_mrl">MRL ਖੋਲ੍ਹੋ</string>
+    <string name="open_mrl_dialog_msg">ਨੈਟਵਰਕ MRL ਦਿਓ: ਜਿਵੇਂ http://, mms:// ਜਾਂ rtsp://</string>
+    <string name="open_mrl_dialog_title">ਨੈਟਵਰਕ ਸਟਰੀਮ ਖੋਲ੍ਹੋ</string>
+    <string name="options">ਚੋਣਾਂ</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"ਖੋਜ ਕਾਰਵਾਈ"</string>
+    <string name="other">ਹੋਰ</string>
+    <string name="parent_folder">ਮੁੱਢਲੇ ਫੋਲਡਰ ਉੱਤੇ ਜਾਓ</string>
+    <string name="pause">ਵਿਰਾਮ</string>
+    <string name="performance_prefs_category">ਕਾਰਗੁਜ਼ਾਰੀ</string>
+    <string name="play">ਚਲਾਓ</string>
+    <string name="play_all">ਸਭ ਚਲਾਓ</string>
+    <string name="play_as_audio">ਆਡੀਓ ਵਜੋਂ ਚਲਾਓ</string>
+    <string name="play_as_video">ਵੀਡੀਓ ਵਜੋਂ ਚਲਾਓ</string>
+    <string name="play_from_start">ਸ਼ੁਰੂ ਤੋਂ ਚਲਾਓ</string>
+    <string name="playback_speed">ਪਲੇਅਬੈਕ ਸਪੀਡ</string>
+    <string name="playlist_tips">ਪਲੇਅਲਿਸਟ ਗੁਰ</string>
+    <string name="playlists">ਪਲੇਅਲਿਸਟ</string>
+    <string name="please_wait">ਉਡੀਕ ਕਰੋ ਜੀ...</string>
+    <string name="preferences">ਮੇਰੀ ਪਸੰਦ</string>
+    <string name="previous">ਪਿਛਲੇ</string>
+    <string name="previous_next_song">ਪਿਛਲਾ/ਅਗਤਾ ਗੀਤ</string>
+    <string name="quit">ਬਾਹਰ ਜਾਉ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ</string>
+    <string name="refresh">ਤਾਜ਼ਾ ਕਰੋ </string>
+    <string name="remove">ਹਟਾਓ </string>
+    <string name="remove_custom_path">ਪਸੰਦੀਦਾ ਪਾਥ ਹਟਾਓ</string>
+    <string name="remove_song">ਗੀਤ ਹਟਾਓ</string>
+    <string name="resize">ਮੁੜ-ਆਕਾਰ</string>
+    <string name="restart_vlc">VLC ਮੁੜ-ਚਾਲੂ ਕਰੋ</string>
+    <string name="revision">ਰੀਵਿਜ਼ਨ</string>
+    <string name="screen_orientation">ਵਿਡੀਓ ਸਕਰੀਨ ਸਥਿਤੀ</string>
+    <string name="screen_orientation_landscape">ਲੈਂਡਸਕੇਪ</string>
+    <string name="screen_orientation_portrait">ਪੋਰਟਰੇਟ</string>
+    <string name="screen_orientation_sensor">ਆਟੋਮੈਟਿਕ (ਸੈਂਸਰ)</string>
+    <string name="screen_orientation_start_lock">ਸ਼ੁਰੂ ਉੱਤੇ ਲਾਕ ਹੈ</string>
+    <string name="search">ਖੋਜ </string>
+    <string name="search_history">ਖੋਜ ਅਤੀਤ</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ਖੋਜੋ"</string>
+    <string name="searchable_hint">...ਖੋਜ</string>
+    <string name="send_log">ਲਾਗ ਭੇਜੋ</string>
+    <string name="set_locale">ਲੋਕੇਲ ਦਿਓ</string>
+    <string name="set_locale_detail">ਮੁੜ-ਸੈਟ ਕਰਨ ਲਈ ਖਾਲੀ ਛੱਡੋ</string>
+    <string name="set_locale_popup">ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ VLC ਨੂੰ ਬੰਦ ਕਰੋ ਅਤੇ ਫੇਰ ਚਾਲੂ ਕਰੋ</string>
+    <string name="set_song">ਰਿੰਗਟੋਨ ਵਜੋਂ ਸੈਟ ਕਰੋ</string>
+    <string name="show_playlist">ਪਲੇਅਲਿਸਟ ਵੇਖੋ</string>
+    <string name="sleep_title">ਸਲੀਪ ਟਾਈਮਰ</string>
+    <string name="songs">ਗੀਤ</string>
+    <string name="sortby">...ਲੜੀਬੱਧ</string>
+    <string name="sortby_length">ਲੰਬਾਈ</string>
+    <string name="sortby_name">ਨਾਂ</string>
+    <string name="sound_off">ਆਵਾਜ਼ ਬੰਦ</string>
+    <string name="sound_on">ਆਵਾਜ਼ ਚਾਲੂ</string>
+    <string name="start_logging">ਲਾਗ ਰੱਖਣਾ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">ਰੋਕੋ </string>
+    <string name="stop_logging">ਲਾਗ ਰੱਖਣਾ ਰੋਕੋ</string>
+    <string name="subtitle_label">ਸਬ-ਟਾਈਟਲ ਫਾਇਲ ਸ਼ਾਮਲ</string>
+    <string name="subtitle_select">ਸਬ-ਟਾਈਟਲ ਫਾਇਲ ਚੁਣੋ</string>
+    <string name="subtitles">ਸਬ-ਟਾਈਟਲ</string>
+    <string name="surface_best_fit">ਸਭ ਤੋਂ ਵਧੀਆ ਫਿੱਟ</string>
+    <string name="surface_fill">ਭਰੋ </string>
+    <string name="surface_original">ਕੇਂਦਰ</string>
+    <string name="thumbnail">ਥੰਮਨੇਲ</string>
+    <string name="title">ਸਿਰਲੇਖ </string>
+    <string name="tools">ਟੂਲ</string>
+    <string name="track_audio">ਆਡੀਓ ਟਰੈ</string>
+    <string name="track_codec_info">Codec: %1$s\n</string>
+    <string name="track_framerate_info">ਫਰੇਮ ਰੇਟ: %1$.3f\n</string>
+    <string name="track_language_info">ਭਾਸ਼ਾ: %1$s\n</string>
+    <string name="track_resolution_info">ਰੈਜ਼ੋਲੂਸ਼ਨ: %1$dx%2$d\n</string>
+    <string name="track_samplerate_info">ਸੈਂਪਲ ਰੇਟ: %1$d Hz\n</string>
+    <string name="track_text">ਸਬ-ਟਾਈਟਲ ਟਰੈਕ</string>
+    <string name="track_unknown">ਅਣਜਾਣ ਟਰੈਕ</string>
+    <string name="track_video">ਵਿਡੀਓ ਟਰੈਕ</string>
+    <string name="unknown_album">ਅਣਜਾਣ ਐਲਬਮ</string>
+    <string name="unknown_artist">ਅਣਜਾਣ ਕਲਾਕਾਰ</string>
+    <string name="unknown_genre">ਅਣਜਾਣ ਧੁਨ</string>
+    <string name="unlocked">ਅਣ-ਲਾਕ ਹੈ</string>
+    <string name="validation">ਪੱਕਾ ਹੈ?</string>
+    <string name="video">ਵਿਡੀਓ</string>
+    <string name="video_player_tips">ਵਿਡੀਓ ਪਲੇਅਰ ਗੁਰ:</string>
+    <string name="vlc_authors">VLC ਲੇਖਕ।</string>
+    <string name="volume">ਵਾਲੀਅਮ</string>
+</resources>

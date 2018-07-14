@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"3.0.11","enabled":true,"outputFile":"VLC-Android-3.0.11-ARMv7.apk","fullName":"vanillaARMv7Debug","baseName":"vanilla-ARMv7-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.videolan.vlc.debug","split":"","minSdkVersion":"14"}}]

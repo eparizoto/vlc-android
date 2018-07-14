@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/user/vlc-android/libvlc/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/92663ea14b7d427616190df7f39caf45/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/vlc-android/medialibrary/build/intermediates/res/merged/debug/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-he/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "159,102,217",
+                        "endColumns": "57,56,57",
+                        "endOffsets": "212,154,270"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,170",
+                        "endColumns": "57,56,57",
+                        "endOffsets": "108,165,223"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/user/vlc-android/medialibrary/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/home/user/vlc-android/medialibrary/res/values-he/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "159,102,217",
+                        "endColumns": "57,56,57",
+                        "endOffsets": "212,154,270"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,170",
+                        "endColumns": "57,56,57",
+                        "endOffsets": "108,165,223"
+                    }
+                }
+            ]
+        }
+    ]
+}

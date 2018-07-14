@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/user/vlc-android/vlc-android/build/intermediates/incremental/mergeVanillaARMv7DebugResources/merged.dir/values-sw900dp-v13/values-sw900dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/user/vlc-android/vlc-android/res/values-sw900dp/dimens.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "70,16",
+                        "endColumns": "54,53",
+                        "endOffsets": "120,65"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,53",
+                        "endOffsets": "105,159"
+                    }
+                }
+            ]
+        }
+    ]
+}
